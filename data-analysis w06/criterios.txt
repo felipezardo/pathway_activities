@@ -1,0 +1,39 @@
+1. Load dataset
+10 pts
+Complete
+The dataset can be loaded from a file.
+
+2. Line-by-line iteration
+13 pts
+Complete
+A loop is used to iterate through the dataset, line by line, and the first line is correctly handled in some fashion.
+
+3. Line splitting
+10 pts
+Complete
+Each line is correctly split into parts.
+
+4. Lowest and highest values
+20 pts
+Complete
+The highest and lowest values are found and displayed.
+
+5. Year and country of highest and lowest values
+10 pts
+Complete
+The year and country associated with the highest and lowest values are found and displayed. 
+
+6. Average for user-specified year
+20 pts
+Complete
+The user is prompted for a year, and the average is correctly computed for that year and displayed
+
+7. Max and min for user-specified year
+10 pts
+Complete
+The user is prompted for a year, and the min and max values and their countries are found for that year and displayed
+
+8. Shows creativity and exceeds requirements
+7 pts
+Complete
+Additional creativity is added with 1-2 sentences description at the top of the program. 
